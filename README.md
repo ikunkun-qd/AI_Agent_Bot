@@ -1,6 +1,6 @@
 # 面向垂直场景的 Agent + RAG 智能客服项目
 
-这是一个围绕扫地机器人 / 扫拖一体机器人场景打造的智能体项目，基于 `LangChain + LangGraph Runtime + Chroma + Streamlit` 实现，具备领域知识问答、工具协同推理、外部数据读取、动态 Prompt 切换以及个性化报告生成能力。
+这是一个机器人的智能体项目，基于 `LangChain + LangGraph Runtime + Chroma + Streamlit` 实现，具备领域知识问答、工具协同推理、外部数据读取、动态 Prompt 切换以及个性化报告生成能力。
 
 它不是一个只会“聊天”的大模型 Demo，而是一个从用户提问到知识检索、工具调用、上下文注入、结果生成都打通了的完整 Agent 应用原型。对于求职展示来说，这个项目能够比较直观地体现我对 Agent、RAG、Prompt Engineering 以及工程化落地的理解。
 
